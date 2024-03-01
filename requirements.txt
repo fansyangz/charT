@@ -1,0 +1,9 @@
+datasets
+spacy
+seqeval
+tqdm
+typing
+wandb
+accelerate==0.20.3
+adapter-transformers
+matplotlib
